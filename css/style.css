@@ -1,0 +1,50 @@
+*{margin:0;
+padding:0;}
+
+body{}
+
+/*header tag*/
+
+#naz{margin-bottom: 50px;}
+
+#naz img{width: 14%;}
+
+.navbar{padding:0 100px;}
+
+.nav-link{color:white!important;}
+
+
+/*slider*/
+
+.slides img{height: 600px;}
+
+
+
+
+
+
+
+
+/*mep*/
+
+#mep{text-align: center;
+	margin-top:50px;
+margin-bottom:50px;}
+
+
+/*exit tag*/
+
+#exit{text-align: center;
+margin-bottom: 50px;}
+
+#exit button{padding:5px 10px;
+border-radius: 10px;}
+
+#exit button:hover{background-color: blue;
+color:white;}
+
+
+
+
+
+
